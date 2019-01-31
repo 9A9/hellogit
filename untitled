@@ -1,0 +1,7 @@
+#include<std.io>
+using namespace std;
+main()
+{
+	cout<<"hello git :)"<<endl;
+}
+
